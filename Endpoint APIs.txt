@@ -1,0 +1,22 @@
+Endpoint es lo que le llega al usuario en estos casos la ruta final /registrar, etc
+----------------------------------------------------------------------
+
+API inicio y registro:
+
+pp.post('/registrar', (req, res) 
+
+app.post('/autenticar', async function (req, res)
+
+-------------------------------------------------------------
+
+API de ejemplo:
+
+app.get('/', (req, res)
+
+app.get('/api/estudiantes', (req, res) 
+
+app.get('/api/estudiantes/:id', (req, res)
+
+app.post('/api/estudiantes', (req, res)
+
+app.delete('/api/estudiantes/:id',  (req, res)
